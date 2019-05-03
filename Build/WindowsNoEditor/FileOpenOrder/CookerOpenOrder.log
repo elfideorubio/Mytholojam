@@ -1,0 +1,868 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 0
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Materials/ML_NormalMaskedVectors.uasset" 1
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Materials/ML_Raycast.uasset" 2
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Textures/T_TilingNoise03_M.uasset" 3
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Materials/M_FogSheet_Master.uasset" 4
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Materials/M_FogSheet_Master_INST.uasset" 5
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Meshes/SM_FogSheet_Plane.uasset" 6
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Blueprints/BP_FogSheet.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 11
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/TangentBasis.uasset" 12
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SplineThicken.uasset" 15
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Textures/T_GodRay_Mask01.uasset" 16
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Textures/T_TilingNoise02_M.uasset" 17
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Materials/M_GodRay_MASTER.uasset" 18
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Materials/M_GodRay_Animated.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 20
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 21
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 22
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 23
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Meshes/SM_GodRay_Plane.uasset" 24
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Textures/T_GodRay_Mask02.uasset" 25
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Assets/Blueprints/BP_LightBeam.uasset" 26
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 27
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Cleanplanks_basecolor.uasset" 28
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Cleanplanks_normal.uasset" 29
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Cleanplanks_output.uasset" 30
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Master_Mat/MAT_DefaultSubstance.uasset" 31
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Trim_Sheet_basecolor.uasset" 32
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Trim_Sheet_normal.uasset" 33
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Trim_Sheet_output.uasset" 34
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/WallHall_Inst.uasset" 35
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/WallHall.uasset" 36
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Wall/Wallblocout.uasset" 37
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 38
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 39
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 40
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 41
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 42
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 43
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 44
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Items/placeholderlantersk_Skeleton.uasset" 45
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Items/placeholderlantershow.uasset" 46
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Items/placeholderlantershowhands.uasset" 47
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Class/CamShake.uasset" 48
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Class/EquipedItem.uasset" 49
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Class/Interactible.uasset" 50
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 51
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 52
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 53
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 54
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 55
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 56
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/EquipableItem/Chalk.uasset" 57
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 58
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Material/Texture/Glyph/glyph_Dot.uasset" 59
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Material/Material/Glyph/GlyphDot.uasset" 60
+"../../../Engine/Content/BasicShapes/Cube.uasset" 61
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Glyph/Dot.uasset" 62
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Material/Texture/Glyph/glyph_Line.uasset" 63
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Material/Material/Glyph/GlyphLine.uasset" 64
+"../../../Engine/Content/BasicShapes/Plane.uasset" 65
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Glyph/Glyph.uasset" 66
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Class/DefaultRoom.uasset" 67
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Kikimora_approach/Kikimora_close_V1_Layer_B__linear_volume_rising_.uasset" 68
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Kikimora_approach/Kikimora_close_V1_Layer_C__faster_volume_rising_.uasset" 69
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Kikimora_approach_Closer_LayerB+C.uasset" 70
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Kikimora/KikimoraAI.uasset" 71
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/EquipableItem/Torch.uasset" 72
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Meshes/BaseMaterial.uasset" 73
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 74
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 75
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 76
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 77
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 78
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 79
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 80
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 81
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 82
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 83
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 84
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 85
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 86
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 87
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 88
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 89
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 90
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 91
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 92
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 93
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 94
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 95
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 96
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 97
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 98
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 99
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 100
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 101
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 102
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 103
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 104
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 105
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/FootstepAtt.uasset" 106
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/FootstepConcurrency.uasset" 107
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/SC_Ambience.uasset" 108
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/SC_Music.uasset" 109
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/SC_VO.uasset" 110
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/SC_MAIN.uasset" 111
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/SC_SFX.uasset" 112
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/SCSub_Footsteps.uasset" 113
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Cleanest/Footsteps_OpD_01.uasset" 114
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Cleanest/Footsteps_OpD_02.uasset" 115
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Cleanest/Footsteps_OpD_03.uasset" 116
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Cleanest/Footsteps_OpD_04.uasset" 117
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Cleanest/Footsteps_OpD_05.uasset" 118
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Cleanest/Footsteps_OpD_06.uasset" 119
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/FootstepCleanest.uasset" 120
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Kikimora_approach/Kikimora_hit_V1_Layer_A.uasset" 121
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Kikimora_approach/Kikimora_hitdraft_V1_Layer_B.uasset" 122
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Kikimora_approach/Kikimora_hitdraft_V1_Layer_C.uasset" 123
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Kikimora_approach_Hit.uasset" 124
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/UI/UI_Interact.uasset" 125
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 126
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Class/PickUp.uasset" 127
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Master_Mat/Mat_LightFunction.uasset" 128
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/CandleFunction_inst.uasset" 129
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Items/placeholderlantersk_PhysicsAsset.uasset" 130
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Items/placeholderlantersk.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 132
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_Candles_A.uasset" 133
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_Candles_C.uasset" 134
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_Candles_N.uasset" 135
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Materials/M_Candles_Master.uasset" 136
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Materials/M_Candles_Inst.uasset" 137
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Meshes/Props/SM_Candle_Used_A.uasset" 138
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/VFX/Flame02_16x4.uasset" 139
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/VFX/MAT_SimpleCandle.uasset" 140
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/VFX/MyCandleSimple.uasset" 141
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Blueprints/CharacterCandle.uasset" 142
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Blueprints/CandleCharacterTest.uasset" 143
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Blueprints/Dummy.uasset" 144
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Houdini_Assets/fideos_interior_builder.uasset" 145
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/CubeMaterial.uasset" 146
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/StairsFilled.uasset" 147
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Items/placeholderlanter.uasset" 148
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Particles/Textures/T_CandleFlame.uasset" 149
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Particles/Materials/M_CandleFlame.uasset" 150
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Particles/PS_CandleFlame.uasset" 151
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Items/LanterPlaceholder.uasset" 152
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Items/placeholderlanter_DefaultMaterial_BaseColor.uasset" 153
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Items/placeholderlanter_DefaultMaterial_Normal.uasset" 154
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Items/placeholderlanter_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 155
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Master_Mat/MAT_DefaultSubstanceOpacity.uasset" 156
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/LanternPlaceHolder_Inst.uasset" 157
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Master_Mat/MAT_bumpOffset.uasset" 158
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 159
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/TemplateFloor.uasset" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 161
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 162
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 163
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/lanternextra_lantern_BaseColor.uasset" 164
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/lanternextra_lantern_Normal.uasset" 165
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/lanternextra_lantern_OcclusionRoughnessMetallic.uasset" 166
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Master_Mat/Lantern.uasset" 167
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/lantern_Base.uasset" 168
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Lantern.uasset" 169
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/lantern_Handle.uasset" 170
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/blueprint_Lantern.uasset" 171
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/lanternNoGlass.uasset" 172
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/saltshaker_salt_BaseColor.uasset" 173
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/saltshaker_salt_Normal.uasset" 174
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/saltshaker_salt_OcclusionRoughnessMetallic.uasset" 175
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/saltshaker_temp.uasset" 176
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/saltshaker_temp.uasset" 177
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/DiningChair.uasset" 178
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/large_talbe.uasset" 179
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/liquoutcabinet.uasset" 180
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/Platedresser.uasset" 181
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/table_cloth.uasset" 182
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Bench_Bench_01_BaseColor.uasset" 183
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Bench_Bench_01_Normal.uasset" 184
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Bench_Bench_01_OcclusionRoughnessMetallic.uasset" 185
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Bench_kitassets_Inst.uasset" 186
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/BenchCorner_01.uasset" 187
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/BenchEnd_02.uasset" 188
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Picture_01.uasset" 189
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Picture_02.uasset" 190
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Bench_Bench_BaseColor.uasset" 191
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Bench_Bench_Normal.uasset" 192
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Bench_Bench_OcclusionRoughnessMetallic.uasset" 193
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/corner_shelves_corner_BaseColor.uasset" 194
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/corner_shelves_corner_Normal.uasset" 195
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/corner_shelves_corner_OcclusionRoughnessMetallic.uasset" 196
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Trim_Sheet_height.uasset" 197
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/HoudiniEngine/Tools/Default/he_boolean.uasset" 198
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/HoudiniEngine/Tools/Default/he_calculate_occlusion.uasset" 199
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/HoudiniEngine/Tools/Default/he_curve_instancer.uasset" 200
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/HoudiniEngine/Tools/Default/he_delete_small_parts.uasset" 201
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/HoudiniEngine/Tools/Default/he_polyreduce.uasset" 202
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/HoudiniEngine/Tools/Default/he_set_pivot.uasset" 203
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/HoudiniEngine/Tools/Default/he_surface_instancer.uasset" 204
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/HDRI/cbv7f-gfil9.uasset" 205
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/HDRI/Cloudysky.uasset" 206
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/HDRI/MAT_sky_Master.uasset" 207
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/HDRI/moonless_golf_2k.uasset" 208
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/HDRI/satara_night_no_lamps_4k.uasset" 209
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/AreaLight.uasset" 210
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Bollard.uasset" 211
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Comet.uasset" 212
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/CylinderNarrow.uasset" 213
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/CylinderWide.uasset" 214
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Defined.uasset" 215
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/DefinedDiffuse.uasset" 216
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/DefinedDiffuseSpot.uasset" 217
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/DefinedSpot.uasset" 218
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Display.uasset" 219
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/IES_Flashlight.uasset" 220
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/IES_Flower.uasset" 221
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/IES_NarrowSpot.uasset" 222
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/IES_NoisyBulb.uasset" 223
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/IES_NoisyBulb_Pointlight.uasset" 224
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/IES_NoisySpot.uasset" 225
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/IES_WideBand.uasset" 226
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/JellyFish.uasset" 227
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/JW_IES.uasset" 228
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/JW_IES3.uasset" 229
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/JW_IES4.uasset" 230
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/JW_IES5.uasset" 231
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/JW_IES6.uasset" 232
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/MediumScatter.uasset" 233
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Overhead.uasset" 234
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/ParallelBeam.uasset" 235
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Pear.uasset" 236
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Round.uasset" 237
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/ScatterLight.uasset" 238
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/SoftArrow.uasset" 239
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/SoftDisplay.uasset" 240
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/ThreeLobeUmbrella.uasset" 241
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/ThreeLobeVee.uasset" 242
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/TightFocused.uasset" 243
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/TopPost.uasset" 244
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Trapezoid_.uasset" 245
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Umbrella.uasset" 246
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/Vee.uasset" 247
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/XArrow.uasset" 248
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/XArrowDiffuse.uasset" 249
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Light_Components/IES/XArrowSoft.uasset" 250
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Meshes/Props/SM_Candle.uasset" 251
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_Candle.uasset" 252
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 254
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_Blank_A.uasset" 255
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_Blank_C.uasset" 256
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_Blank_N.uasset" 257
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Materials/M_Master.uasset" 258
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleHolder_Iron_A.uasset" 259
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleHolder_Iron_C.uasset" 260
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleHolder_Iron_N.uasset" 261
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Materials/M_CandleHolder_Iron_Inst.uasset" 262
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Meshes/Props/SM_Candle_Used_B.uasset" 263
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Meshes/Props/SM_CandleHolder_Iron.uasset" 264
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_CandleHolder_Iron.uasset" 265
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleStick_Bronze_A.uasset" 266
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleStick_Bronze_C.uasset" 267
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleStick_Bronze_N.uasset" 268
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Materials/M_CandleStick_Bronze_Inst.uasset" 269
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleStick_Iron_A.uasset" 270
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleStick_Iron_C.uasset" 271
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleStick_Iron_N.uasset" 272
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Materials/M_CandleStick_Iron_Inst.uasset" 273
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Meshes/Props/SM_CandleStick_Iron.uasset" 274
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_CandleStick_Bronze.uasset" 275
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_CandleStick_Iron.uasset" 276
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_Candle_Used_A.uasset" 277
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_Candle_Used_B.uasset" 278
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Meshes/Props/SM_Candle_Used_C.uasset" 279
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_Candle_Used_C.uasset" 280
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/09_Old_To_Delete/MytholoJam_Draft_v1_10ALoop.uasset" 281
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGMusic_LayerA.uasset" 282
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/09_Old_To_Delete/MytholoJam_Draft_v1_10BLoop.uasset" 283
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGMusic_LayerB.uasset" 284
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/09_Old_To_Delete/MytholoJam_Draft_v1_10CLoop.uasset" 285
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGMusic_LayerC.uasset" 286
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_A1_MelDron_110bpm_4-4_L24M_P0.uasset" 287
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_A2_Cymbals_110bpm_4-4_L24M_P0.uasset" 288
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_A3_Percussion_110bpm_4-4_L24M_P0.uasset" 289
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGM_Main_A.uasset" 290
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_B1_MelDron_110bpm_4-4_L24M_P0.uasset" 291
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_B2_Cymbals_110bpm_4-4_L24M_P0.uasset" 292
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_B3_Percussion_110bpm_4-4_L24M_P0.uasset" 293
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGM_Main_B.uasset" 294
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_C1_MelDron_110bpm_4-4_L24M_P0.uasset" 295
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_C2_Cymbals_110bpm_4-4_L24M_P0.uasset" 296
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_Main_C3_Percussion_110bpm_4-4_L24M_P0.uasset" 297
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGM_Main_C.uasset" 298
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/01_Music/Main_BG/MytholoJam_V1_CalmDraft_D1_MelDron_110bpm_4-4_L24M_P0.uasset" 299
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGM_Main_D.uasset" 300
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/BGM_Main_Random.uasset" 301
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_CleanWithCrack/Footsteps_OpB_01.uasset" 302
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_CleanWithCrack/Footsteps_OpB_03.uasset" 303
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_CleanWithCrack/Footsteps_OpB_04.uasset" 304
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_CleanWithCrack/Footsteps_OpB_05.uasset" 305
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_CleanWithCrack/Footsteps_OpB_06.uasset" 306
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/FootstepCleanWithCrack.uasset" 307
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_01.uasset" 308
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_02.uasset" 309
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_03.uasset" 310
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_04.uasset" 311
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_05.uasset" 312
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_06.uasset" 313
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_07.uasset" 314
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisiest/Footsteps_OpA_08.uasset" 315
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/FootstepNoisiest.uasset" 316
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisy/Footsteps_OpC_01.uasset" 317
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisy/Footsteps_OpC_02.uasset" 318
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisy/Footsteps_OpC_03.uasset" 319
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisy/Footsteps_OpC_04.uasset" 320
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisy/Footsteps_OpC_05.uasset" 321
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_Noisy/Footsteps_OpC_06.uasset" 322
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/FootstepNoisy.uasset" 323
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_01.uasset" 324
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_02.uasset" 325
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_03.uasset" 326
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_04.uasset" 327
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_05.uasset" 328
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_06.uasset" 329
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_07.uasset" 330
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Kikimora_Cleanest/Footsteps_Kikimora_OpD_08.uasset" 331
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Footstep_Kikimora_Cleanest.uasset" 332
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Kikimora_approach/Kikimora_closer_V1_Layer_A__no_volume_modification_.uasset" 333
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Kikimora_approach_Closer_LayerA.uasset" 334
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Kikimora_approach_Closer_LayerB.uasset" 335
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Kikimora_approach_Closer_LayerC.uasset" 336
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/03_VO/Kikimora_drafts/Kikimora_whisper_close_T05.uasset" 337
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Kikimora_Whisper_Close.uasset" 338
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/03_VO/Kikimora_drafts/Kikimora_whisper_T01.uasset" 339
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/03_VO/Kikimora_drafts/Kikimora_whisper_T02.uasset" 340
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/03_VO/Kikimora_drafts/Kikimora_whisper_T03.uasset" 341
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/03_VO/Kikimora_drafts/Kikimora_whisper_T04.uasset" 342
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Kikimora_Whisper_far.uasset" 343
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Footsteps/Character_CleanWithCrack/Footsteps_OpB_02.uasset" 344
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/04_PlaceHolders/Close.uasset" 345
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/04_PlaceHolders/Hurt.uasset" 346
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/04_PlaceHolders/Locked.uasset" 347
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/04_PlaceHolders/Open.uasset" 348
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/04_PlaceHolders/Unlocked.uasset" 349
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/04_PlaceHolders/White_Noise.uasset" 350
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/04_PlaceHolders/WNloop.uasset" 351
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/UI/UI_CLoseDoor.uasset" 352
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 353
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 354
+"../../../Engine/Content/BasicShapes/Cone.uasset" 355
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 356
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 357
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 358
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 359
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 360
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 361
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 362
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 363
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 364
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 365
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 366
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 367
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 368
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 369
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 370
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 371
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 372
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 373
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 374
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 375
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 376
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 377
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 378
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 379
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 380
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 381
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 382
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 383
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 384
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 385
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 386
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 387
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 388
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 389
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 390
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 391
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 392
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 393
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 394
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 395
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 396
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 397
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 398
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 399
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 400
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 401
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 402
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 403
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 404
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 405
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 406
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 407
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 408
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 409
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 410
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 411
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 412
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 413
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 414
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 415
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 416
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 417
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 418
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 419
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 420
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 421
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 422
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 423
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 425
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 426
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 427
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 428
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 429
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 430
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 431
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 432
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 433
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 434
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 435
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 436
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 437
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 438
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 439
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 440
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 441
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 442
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 443
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 444
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 445
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 446
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 447
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 448
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 449
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 450
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 451
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 452
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 453
+"../../../Engine/Content/EngineSounds/Master.uasset" 454
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 455
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 456
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 457
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 458
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 459
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 460
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 461
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 462
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 463
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 464
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 465
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 466
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 467
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 468
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 469
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 470
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 471
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 472
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 473
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 474
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 475
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 476
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 477
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 478
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 479
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 480
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 481
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 482
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 483
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 484
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 485
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 486
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 487
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 488
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 489
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 490
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 491
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 492
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 493
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 494
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 495
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset" 496
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/houdini_logo.uasset" 497
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 498
+"../../../Engine/Content/EngineResources/Black.uasset" 499
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Materials/HoudiniVertexAnimationFluid.uasset" 500
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 501
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 502
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Materials/HoudiniVertexAnimationRigid.uasset" 503
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Materials/HoudiniVertexAnimationSoft.uasset" 504
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_03.uasset" 505
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Materials/HoudiniVertexAnimationSprite.uasset" 506
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Test/InputEcho.uasset" 507
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Test/TestBox.uasset" 508
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Test/TestParams.uasset" 509
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Test/TestPolyReduce.uasset" 510
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Tools/he_sop_boolean.uasset" 511
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Tools/he_sop_curve_instancer.uasset" 512
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Tools/he_sop_polyreduce.uasset" 513
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/Tools/rock_generator.uasset" 514
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 515
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 516
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 517
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 518
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 519
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 520
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 521
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 522
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 523
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 524
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 525
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 526
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 527
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 528
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 529
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 530
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 531
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 532
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 533
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 534
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 535
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/daytime_BuiltData.uasset" 536
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/daytime.umap" 537
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Kikimora/KikimoraSprite.uasset" 538
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Kikimora/KikimoraMat.uasset" 539
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Kikimora/Kikimora.uasset" 540
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Door_Material_BaseColor.uasset" 541
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Door_Material_Normal.uasset" 542
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Door_Material_OcclusionRoughnessMetallic.uasset" 543
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Door_openable_inst.uasset" 544
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Door.uasset" 545
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Close_221.uasset" 546
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Close_222.uasset" 547
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Close_223.uasset" 548
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Close_224.uasset" 549
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Close_225.uasset" 550
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Close_226.uasset" 551
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Door_Close.uasset" 552
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Locked_201.uasset" 553
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Locked_202.uasset" 554
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Locked_203.uasset" 555
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Door_Locked.uasset" 556
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Open_201.uasset" 557
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Open_202.uasset" 558
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Open_203.uasset" 559
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Open_204.uasset" 560
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Door_Open.uasset" 561
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_PreClose_221.uasset" 562
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_PreClose_222.uasset" 563
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_PreClose_223.uasset" 564
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_PreClose_224.uasset" 565
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_PreClose_225.uasset" 566
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_PreClose_226.uasset" 567
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Door_Pre_Close.uasset" 568
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Unlocked_201.uasset" 569
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Unlocked_202.uasset" 570
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/02_SFX/Doors/Door_Unlocked_203.uasset" 571
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/Door_Unlocked.uasset" 572
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Door/Door_hinge.uasset" 573
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/PickUp/Key/Key.uasset" 574
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/PilarsandStair_asdfasdf_BaseColor.uasset" 575
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/PilarsandStair_asdfasdf_Normal.uasset" 576
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/PilarsandStair_asdfasdf_OcclusionRoughnessMetallic.uasset" 577
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/PilarsAndStair_Inst.uasset" 578
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_Ballusters.uasset" 579
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_Conector.uasset" 580
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_HandRail.uasset" 581
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_QuaterSpaceLanding.uasset" 582
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_Skirting.uasset" 583
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_Steps.uasset" 584
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_String.uasset" 585
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_Stringer.uasset" 586
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stair_WallString.uasset" 587
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Servants_Stair.uasset" 588
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedroom_Bed_QueenSoft_QueenBlankets_BaseColor.uasset" 589
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedroom_Bed_QueenSoft_QueenBlankets_Normal.uasset" 590
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedroom_Bed_QueenSoft_QueenBlankets_OcclusionRoughnessMetallic.uasset" 591
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Queen_Blankets.uasset" 592
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bedframe_Blankets.uasset" 593
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedframe_Lower_01_QueenFrame_Lower_BaseColor.uasset" 594
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedframe_Lower_01_QueenFrame_Lower_Normal.uasset" 595
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedframe_Lower_01_QueenFrame_Lower_OcclusionRoughnessMetallic.uasset" 596
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/QueenBedFrame_Lower.uasset" 597
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bedframe_Lower_01.uasset" 598
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedframe_Upper_01_pics_QeenBed_Upper_BaseColor.uasset" 599
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedframe_Upper_01_pics_QeenBed_Upper_Normal.uasset" 600
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedframe_Upper_01_pics_QeenBed_Upper_OcclusionRoughnessMetallic.uasset" 601
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/QueenBedFrame_Upper.uasset" 602
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bedframe_Upper_01.uasset" 603
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/BluePrint_QueenBed_01.uasset" 604
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Meshes/SK_Crow_Skeleton.uasset" 605
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_EatSomething.uasset" 606
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Textures/T_Crow_BaseColor.uasset" 607
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Textures/T_Crow_Nml.uasset" 608
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Textures/T_Crow_OcclusionRoughnessMetallic.uasset" 609
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Textures/T_Crow_Specular.uasset" 610
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Materials/M_Crow.uasset" 611
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Meshes/SK_Crow_PhysicsAsset.uasset" 612
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Meshes/SK_Crow.uasset" 613
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Fideos_Bedroom/CrowCage_PhysicsAsset.uasset" 614
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Fideos_Bedroom/CrowCage_Skeleton.uasset" 615
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Fideos_Bedroom/CrowCage.uasset" 616
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Fideos_Bedroom/CrowCageBP.uasset" 617
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/cloth_tablecloth_BaseColor.uasset" 618
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/cloth_tablecloth_Normal.uasset" 619
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/cloth_tablecloth_OcclusionRoughnessMetallic.uasset" 620
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/TableCloth.uasset" 621
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/cloth.uasset" 622
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/table_01_Table_BaseColor.uasset" 623
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/table_01_Table_Normal.uasset" 624
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/table_01_Table_OcclusionRoughnessMetallic.uasset" 625
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/table.uasset" 626
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/table_01.uasset" 627
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/BluePrint_Table.uasset" 628
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/Accessories_02_Barrel_001_BakeLow_Berrel_BaseColor.uasset" 629
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/Accessories_02_Barrel_001_BakeLow_Berrel_Normal.uasset" 630
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/Accessories_02_Barrel_001_BakeLow_Berrel_OcclusionRoughnessMetallic.uasset" 631
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Barrel.uasset" 632
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/Accessories_02_Barrel_001_BakeLow.uasset" 633
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/Accessories_02_accessories_02_BaseColor.uasset" 634
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/Accessories_02_accessories_02_Normal.uasset" 635
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/Accessories_02_accessories_02_OcclusionRoughnessMetallic.uasset" 636
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Accessories_02.uasset" 637
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/barrel_stand_01.uasset" 638
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/bluePrint_Barrel.uasset" 639
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleHolder_Bronze_A.uasset" 640
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleHolder_Bronze_C.uasset" 641
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Textures/T_CandleHolder_Bronze_N.uasset" 642
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Materials/M_CandleHolder_Bronze_Inst.uasset" 643
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Meshes/Props/SM_CandleHolder_Bronze.uasset" 644
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/MedievalDungeon/Blueprints/BP_CandleHolder_Bronze.uasset" 645
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/Fideos_blockout_BuiltData.uasset" 646
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/M_AddMultipleNormalMaps_F.uasset" 647
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/M_NormalMapIntensity_F.uasset" 648
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/M_UVTiling_F.uasset" 649
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/M_MasterDining.uasset" 650
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/T_DiningChair_Set36_D.uasset" 651
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/T_DiningChair_Set36_M.uasset" 652
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/T_DiningChair_Set36_N.uasset" 653
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/M_DiningChair_Set36.uasset" 654
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShading.uasset" 655
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/M_ClothMasterMaterial.uasset" 656
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/M_DiningChairCloth_Set36.uasset" 657
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/ArchConnector.uasset" 658
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/DoorWay.uasset" 659
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Ceiling_ornament_basecolor.uasset" 660
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Ceiling_ornament_normal.uasset" 661
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Ceiling_ornament_output.uasset" 662
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Ceiling_Inst.uasset" 663
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/FloorCleanPlanks_inst.uasset" 664
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/FloorHall.uasset" 665
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Lightmapfucker.uasset" 666
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/MainDoor_Material_001_BaseColor.uasset" 667
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/MainDoor_Material_001_Normal.uasset" 668
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/MainDoor_Material_001_OcclusionRoughnessMetallic.uasset" 669
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/MainDoor_Inst.uasset" 670
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/MainDoor.uasset" 671
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Pilar.uasset" 672
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/PilarCorner.uasset" 673
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/archesPainter_asdfasdf_BaseColor.uasset" 674
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/archesPainter_asdfasdf_Normal.uasset" 675
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/archesPainter_asdfasdf_OcclusionRoughnessMetallic.uasset" 676
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Arches_Inst.uasset" 677
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/PillarArch.uasset" 678
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/PillarArchEnd.uasset" 679
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Railing.uasset" 680
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Rug_Low_Rugs_BaseColor.uasset" 681
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Rug_Low_Rugs_Normal.uasset" 682
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Texture_ModularPieces/Rug_Low_Rugs_OcclusionRoughnessMetallic.uasset" 683
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Rug_Inst.uasset" 684
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Rug1.uasset" 685
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Rug2.uasset" 686
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stairsjoined.uasset" 687
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/WindowRegular.uasset" 688
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Queen_02_Frame_Queen02_Frame_BaseColor.uasset" 689
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Queen_02_Frame_Queen02_Frame_Normal.uasset" 690
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Queen_02_Frame_Queen02_Frame_OcclusionRoughnessMetallic.uasset" 691
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Queen_02_Frame.uasset" 692
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bed_Queen_02_Frame.uasset" 693
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Twin_01_BedTwin_BaseColor.uasset" 694
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Twin_01_BedTwin_Normal.uasset" 695
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Twin_01_BedTwin_OcclusionRoughnessMetallic.uasset" 696
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/BedTwin.uasset" 697
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bed_Twin_01.uasset" 698
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Twin_01_BedTwin_02_BaseColor.uasset" 699
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Twin_01_BedTwin_02_Normal.uasset" 700
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bed_Twin_01_BedTwin_02_OcclusionRoughnessMetallic.uasset" 701
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/BedTwin_02.uasset" 702
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bed_Twin_02.uasset" 703
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bed_Twin_03.uasset" 704
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedroom_Dresser_01_dresser_BaseColor.uasset" 705
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedroom_Dresser_01_dresser_Normal.uasset" 706
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Bedroom/Bedroom_Dresser_01_dresser_OcclusionRoughnessMetallic.uasset" 707
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/QueenBed_Dresser_ins.uasset" 708
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/Bedroom_Dresser_01.uasset" 709
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Accessories_01_accessories_01_BaseColor.uasset" 710
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Accessories_01_accessories_01_Normal.uasset" 711
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Accessories_01_accessories_01_OcclusionRoughnessMetallic.uasset" 712
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/accessories_01.uasset" 713
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Bedroom/bookstack_01.uasset" 714
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/keys_keys_BaseColor.uasset" 715
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/keys_keys_Normal.uasset" 716
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/keys_keys_OcclusionRoughnessMetallic.uasset" 717
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/keys.uasset" 718
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/key_01.uasset" 719
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/key_02.uasset" 720
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/key_03.uasset" 721
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/salt_salt_BaseColor.uasset" 722
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/salt_salt_Normal.uasset" 723
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Character_Assets/salt_salt_OcclusionRoughnessMetallic.uasset" 724
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/salt.uasset" 725
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/salt_01.uasset" 726
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Character_Assets/salt_02.uasset" 727
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/cab_cab_BaseColor.uasset" 728
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/cab_cab_Normal.uasset" 729
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Dining/cab_cab_OcclusionRoughnessMetallic.uasset" 730
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/cab.uasset" 731
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/cab.uasset" 732
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/chimeney.uasset" 733
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/curtain.uasset" 734
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/diningcloth.uasset" 735
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/Greybox/portrait.uasset" 736
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/spoon_01.uasset" 737
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/dining_room/spoon_02.uasset" 738
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/BarelPole_01.uasset" 739
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/BenchBase_01.uasset" 740
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/BenchEnd_01.uasset" 741
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/CookieJar.uasset" 742
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/CuttingBoard_01.uasset" 743
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Table_table_BaseColor.uasset" 744
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Table_table_Normal.uasset" 745
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Table_table_OcclusionRoughnessMetallic.uasset" 746
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Table_kitassets_Inst.uasset" 747
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/DishBowl_01.uasset" 748
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/DishPlate_01.uasset" 749
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Handle_01.uasset" 750
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Kettle_Kettle_BaseColor.uasset" 751
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Kettle_Kettle_Normal.uasset" 752
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Kettle_Kettle_OcclusionRoughnessMetallic.uasset" 753
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Kettle.uasset" 754
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Kitchen_Kettle.uasset" 755
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Oven_06_Kitchen_Oven_BaseColor.uasset" 756
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Oven_06_Kitchen_Oven_Normal.uasset" 757
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Kitchen/Kitchen_Oven_06_Kitchen_Oven_OcclusionRoughnessMetallic.uasset" 758
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Oven_Inst.uasset" 759
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Kitchen_Oven_06.uasset" 760
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Kitchen_Spoon_01.uasset" 761
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Kitchen_Table.uasset" 762
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Kitchen_vase_01.uasset" 763
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/lamp.uasset" 764
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/LivingRoom/Chair_Cup_Plate_chair_BaseColor.uasset" 765
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/LivingRoom/Chair_Cup_Plate_chair_Normal.uasset" 766
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/LivingRoom/Chair_Cup_Plate_chair_OcclusionRoughnessMetallic.uasset" 767
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/Chair.uasset" 768
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/mug.uasset" 769
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/pan_01.uasset" 770
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/plate_02.uasset" 771
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Kitchen/Vase_02.uasset" 772
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/corner_books_BaseColor.uasset" 773
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/corner_books_Normal.uasset" 774
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/corner_books_OcclusionRoughnessMetallic.uasset" 775
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/shelves_corner.uasset" 776
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/books.uasset" 777
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/bookshelf_01_shelves_books_BaseColor.uasset" 778
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/bookshelf_01_shelves_books_Normal.uasset" 779
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Library/bookshelf_01_shelves_books_OcclusionRoughnessMetallic.uasset" 780
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/shelves_books.uasset" 781
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/bookshelf_01.uasset" 782
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/corner.uasset" 783
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/greybox/bookpile_01.uasset" 784
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/greybox/bookpile_02.uasset" 785
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/greybox/Bookshelf.uasset" 786
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/greybox/librarymirror.uasset" 787
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/library/greybox/librarytable.uasset" 788
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/LivingRoom/chair.uasset" 789
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/LivingRoom/couch_couch_BaseColor.uasset" 790
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/LivingRoom/couch_couch_Normal.uasset" 791
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/LivingRoom/couch_couch_OcclusionRoughnessMetallic.uasset" 792
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/couch.uasset" 793
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/LivingRoom/couch.uasset" 794
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/LivingRoom/fireplace_greybox.uasset" 795
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/SK_Mannequin_PhysicsAsset.uasset" 796
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/SK_Mannequin_Skeleton.uasset" 797
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/SK_Mannequin.uasset" 798
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/SM_DiningChair_Set36.uasset" 799
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/bucket_01.uasset" 800
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/bucket_02.uasset" 801
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/storage_01_storage_01_BaseColor.uasset" 802
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/storage_01_storage_01_Normal.uasset" 803
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Textures/Storage/storage_01_storage_01_OcclusionRoughnessMetallic.uasset" 804
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Materials/Instances/storage_01.uasset" 805
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/crate_01.uasset" 806
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/crate_02.uasset" 807
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/Kitchen_WallPlanks_01.uasset" 808
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/ShelfFloor_01.uasset" 809
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/Storage/ShelfFloor_02.uasset" 810
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/MusicCue/LayerA1.uasset" 811
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/MusicCue/LayerA2.uasset" 812
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Sound/00_SoundCue_and_mixers/MusicCue/LayerA3.uasset" 813
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/Fideos_blockout.umap" 814
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Hall_Stair.uasset" 815
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/LightingScenario_BuiltData.uasset" 816
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/LightingScenario.umap" 817
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/Mansion_Day_BuiltData.uasset" 818
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/DoorFrame_2x3.uasset" 819
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Wall_2x3.uasset" 820
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/Mansion_Day.umap" 821
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Houdini_Assets/interior_builder.uasset" 822
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Houdini_Assets/Stair_generator.uasset" 823
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/BlockMap/Blockmap_BuiltData.uasset" 824
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Plugins/Engine/Runtime/HoudiniEngine/Content/houdini_default_material.uasset" 825
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 826
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/BlockMap/Blockmap.umap" 827
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Blueprint/Assets/Wall/Wall.uasset" 828
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/BlockMap/MiloPlaytestMap_BuiltData.uasset" 829
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/BlockMap/MiloPlaytestMap.umap" 830
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/DayNightTestMap/Day_BuiltData.uasset" 831
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/DayNightTestMap/Day.umap" 832
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 833
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 834
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 835
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/DayNightTestMap/Geometry_BuiltData.uasset" 836
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 837
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 838
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 839
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/Meshes/1M_Cube.uasset" 840
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/DayNightTestMap/Geometry.umap" 841
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/DayNightTestMap/Night_BuiltData.uasset" 842
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Maps/DayNightTestMap/Night.umap" 843
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_DeathGrounded.uasset" 844
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_DeathHitTheGround.uasset" 845
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Falling.uasset" 846
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.uasset" 847
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_FlyingAttack.uasset" 848
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Glide.uasset" 849
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Hop.uasset" 850
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Hop_RM.uasset" 851
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_IdleLookAround.uasset" 852
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_IdleScratchWing.uasset" 853
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_IdleStretchWings.uasset" 854
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_InAirDeathGoToFall.uasset" 855
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Landing.uasset" 856
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_TakeOff.uasset" 857
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Walk.uasset" 858
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Walk_RM.uasset" 859
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Maps/Overview_BuiltData.uasset" 860
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 861
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/AnimalVarietyPack/Crow/Maps/Overview.umap" 862
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 863
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/Geometry/House_pieces/Stairs.uasset" 864
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/Mytholojam/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 865
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 866
+"../../../Engine/Content/Maps/Entry.umap" 867
