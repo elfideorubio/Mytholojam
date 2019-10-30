@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -19,12 +19,8 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Niagara",
-			"Enabled": true
-		},
-		{
 			"Name": "NiagaraExtras",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
